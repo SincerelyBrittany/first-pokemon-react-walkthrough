@@ -1,2 +1,2 @@
-# first-pokemon-react-walkthrough
+# todo-app-with-react-hooks
 Created with CodeSandbox
